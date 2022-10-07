@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyankar96
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Web Develpment
+- 🌱 I’m currently learning Data Analyst
 - 📫 How to reach me LinkedIn
 
 <!---
